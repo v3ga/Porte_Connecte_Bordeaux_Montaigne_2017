@@ -43,15 +43,29 @@ Porté connecté
 
 ##### Habits
 * [A P P A R E L](http://mixtur.es/apparel/) — N O R M A L S (Cédric Flazinski & Aurélien Michon)
+* [The Holy Dress](http://www.melissacoleman.nl/) — Melissa Coleman
+* [CuteCircuit](https://cutecircuit.com/) — Francesca Rosella & Ryan Genz
+ * [article sur Deezen](https://www.dezeen.com/2014/08/29/movie-francesca-rosella-cutecircuit-digital-fashion-smart-textiles/)
+* [Phototrope shirt](https://vimeo.com/194846079)
 
 ##### Tatouages
+* [DuoSkin](https://vimeo.com/178334883) — MIT Media Lab
 * [Conductive tattos](http://hackaday.com/2015/11/25/conductive-circuit-board-tattoos-tech-tats/)
 
 #### Ceintures
 * [FeelSpace](http://www.feelspace.de/navibelt/)
 
 #### Chaussures
-* [The tlaking shoe](http://hypebeast.com/2013/3/google-x-adidas-talking-shoe-by-art-copy-code-zach-lieberman-and-yesyesno) - Zachary Lieberman x Google x Adidas
+* [The talking shoe](http://hypebeast.com/2013/3/google-x-adidas-talking-shoe-by-art-copy-code-zach-lieberman-and-yesyesno) - Zachary Lieberman x Google x Adidas
+
+#### Bijoux / objets
+
+#### Textiles
+* [Slowscreen](https://louiseveillard.com/projets/slowscreen) - Pauline Gourlet & Louis Eveillard
+* [Media vintage](http://v2.nl/lab/projects/media-vintage%20%28project%29) — Melissa Coleman
 
 
-* 
+
+
+#### Évènements
+* [Coded couture](https://www.dezeen.com/2016/03/17/coded-couture-fashion-futuristic-exhibition-pratt-gallery-new-york/) 
