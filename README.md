@@ -34,7 +34,6 @@ Porté connecté
 
 #### Wearables
 ##### Lunettes & casques (« digital eyewear »)
-* [Compass](http://jellereith.nl/projectpage.php?id=22) — Jelle Reith
 * [Hololens](https://www.microsoft.com/microsoft-hololens/fr-fr) — Microsoft
 * [Google Glass](https://fr.wikipedia.org/wiki/Google_Glass) — Google
 * [Google VR](https://vr.google.com/) — Google
@@ -44,6 +43,7 @@ Porté connecté
 
 ##### Habits
 * [A P P A R E L](http://mixtur.es/apparel/) — N O R M A L S (Cédric Flazinski & Aurélien Michon)
+* [Compass](http://jellereith.nl/projectpage.php?id=22) — Jelle Reith
 * [The Holy Dress](http://www.melissacoleman.nl/) — Melissa Coleman
 * [CuteCircuit](https://cutecircuit.com/) — Francesca Rosella & Ryan Genz
  * [article sur Deezen](https://www.dezeen.com/2014/08/29/movie-francesca-rosella-cutecircuit-digital-fashion-smart-textiles/)
