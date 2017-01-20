@@ -23,6 +23,7 @@ Porté connecté
 * [Site Arduino](http://www.arduino.cc)
 * [Manuel Floss Arduino](https://fr.flossmanuals.net/arduino/historique-du-projet-arduino/)
 * [Premiers montages avec Arduino sur Openclassrooms](https://openclassrooms.com/courses/programmez-vos-premiers-montages-avec-arduino)
+* [Sew electric](http://sewelectric.org/)
 
 #### Matériel
 * [Wearables](https://www.adafruit.com/category/65) — Adafruit industries
