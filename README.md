@@ -59,11 +59,14 @@ Porté connecté
 #### Chaussures
 * [The talking shoe](http://hypebeast.com/2013/3/google-x-adidas-talking-shoe-by-art-copy-code-zach-lieberman-and-yesyesno) - Zachary Lieberman x Google x Adidas
 
-#### Bijoux / objets
-
 #### Textiles
 * [Slowscreen](https://louiseveillard.com/projets/slowscreen) - Pauline Gourlet & Louis Eveillard
 * [Media vintage](http://v2.nl/lab/projects/media-vintage%20%28project%29) — Melissa Coleman
+
+
+#### Divers
+* [Wearable computing sur le site Arduino](https://blog.arduino.cc/category/wearable-computing/)
+
 
 
 
