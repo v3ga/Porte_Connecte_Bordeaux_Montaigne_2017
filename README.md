@@ -7,9 +7,24 @@ Porté connecté
 
 ## Cours #02 — Lundi 23 Janvier
 * Présentation du projet par Pierre Bourdareau
-* Présentation de la plateforme Arduino
-
-
+ * document [« Porté connecté »](/docs/Porté_connecté_Pierre_Bourdareau.pdf) 
+* **Présentation d'Arduino**
+ * histoire de la platerforme (à lire : [The untold story of Arduino](https://arduinohistory.github.io/))
+ * [plate-forme matérielle](https://www.arduino.cc/en/Main/Products)
+ * [environnement de développement](https://www.arduino.cc/en/Main/Software)
+ * « langage » de programmation
+* **Premières expérimentations**
+ * présentation de la plate-forme matérielle [Arduino en vue de dessus](http://cdn.makezine.com/uploads/2014/07/arduino_scan.jpg)
+    * diodes (LEDs) de contrôle RX / TX
+    * ports entrées / sorties : entrées analogiques et entrées / sorties numériques
+    * bouton reset
+ * présentation de l'environnement de développement : application en ligne et hors ligne.
+ * premier programme : [la diode qui clignote](/src/sketch_01_led_clignote/).
+ * notions de base en électronique : tension, courant électrique.
+  * présentation de quelques composants : diode, résistances, photorésistance, bouton poussoir
+  * [breadboard](https://fr.wikipedia.org/wiki/Platine_d'exp%C3%A9rimentation)
+ * deuxième programme : [capteur de lumière](/src/sketch_02_capteur_lumiere)
+ 
 ### Bibliographie
 #### Arduino
 * [Projets créatifs avec Arduino](http://www.pearson.fr/livre/?GCOI=27440100443180&fa=author&person_id=14889) — Bruno Affagard, Jean-Michel Géridan, Jean-Noël Lafargue
@@ -31,6 +46,7 @@ Porté connecté
 
 #### Histoire
 * [The mother of all demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) - Douglas Engelbart
+* [The untold history of Arduino](https://arduinohistory.github.io/) - Hernando Barragán
 
 #### Wearables
 ##### Lunettes & casques (« digital eyewear »)
@@ -66,10 +82,6 @@ Porté connecté
 
 #### Divers
 * [Wearable computing sur le site Arduino](https://blog.arduino.cc/category/wearable-computing/)
-
-
-
-
 
 #### Évènements
 * [Coded couture](https://www.dezeen.com/2016/03/17/coded-couture-fashion-futuristic-exhibition-pratt-gallery-new-york/) 
