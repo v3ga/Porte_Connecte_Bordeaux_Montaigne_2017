@@ -1,0 +1,1 @@
+![montage](sketch_02_capteur_lumiere_montage.png)
