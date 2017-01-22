@@ -6,7 +6,7 @@ Porté connecté
 *reporté, une date est à définir*
 
 ## Cours #02 — Lundi 23 Janvier
-* Présentation du projet par Pierre Bourdareau
+* **Présentation du projet** par Pierre Bourdareau
  * document [« Porté connecté »](/docs/Porté_connecté_Pierre_Bourdareau.pdf) 
 * **Présentation d'Arduino**
  * histoire de la platerforme (à lire : [The untold story of Arduino](https://arduinohistory.github.io/))
