@@ -38,6 +38,7 @@ Porté connecté
 * [Site Arduino](http://www.arduino.cc)
 * [Manuel Floss Arduino](https://fr.flossmanuals.net/arduino/historique-du-projet-arduino/)
 * [Premiers montages avec Arduino sur Openclassrooms](https://openclassrooms.com/courses/programmez-vos-premiers-montages-avec-arduino)
+* [Arduino lessons](https://learn.adafruit.com/series/learn-arduino) sur Adafruit
 * [Sew electric](http://sewelectric.org/)
 
 #### Matériel
