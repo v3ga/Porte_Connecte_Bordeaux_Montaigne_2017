@@ -29,6 +29,9 @@ Porté connecté
 #### Articles
 * [Synthèse sur les wearables : le porté connecté](https://yannickprimel.wordpress.com/2016/04/04/synthese-sur-les-wearables-le-porte-connecte/) — Yannick Primel
 
+#### Vidéos
+* [Quelles conséquences de la robotique sur le travail ?](https://www.facebook.com/528808020614977/videos/746337268862050/) — Laurent Alexandre
+
 #### Arduino
 * [Projets créatifs avec Arduino](http://www.pearson.fr/livre/?GCOI=27440100443180&fa=author&person_id=14889) — Bruno Affagard, Jean-Michel Géridan, Jean-Noël Lafargue
 * [Getting started with Arduino](http://shop.oreilly.com/product/0636920021414.do) — Massimo Banzi
