@@ -27,7 +27,7 @@ Porté connecté
  
 ### Bibliographie
 #### Articles
-* [Synthèse sur les wearables : le porté connecté](https://yannickprimel.wordpress.com/2016/04/04/synthese-sur-les-wearables-le-porte-connecte/)
+* [Synthèse sur les wearables : le porté connecté](https://yannickprimel.wordpress.com/2016/04/04/synthese-sur-les-wearables-le-porte-connecte/) — Yannick Primel
 
 #### Arduino
 * [Projets créatifs avec Arduino](http://www.pearson.fr/livre/?GCOI=27440100443180&fa=author&person_id=14889) — Bruno Affagard, Jean-Michel Géridan, Jean-Noël Lafargue
