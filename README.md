@@ -26,6 +26,9 @@ Porté connecté
  * deuxième programme : [capteur de lumière](/src/sketch_02_capteur_lumiere)
  
 ### Bibliographie
+#### Articles
+* [Synthèse sur les wearables : le porté connecté](https://yannickprimel.wordpress.com/2016/04/04/synthese-sur-les-wearables-le-porte-connecte/)
+
 #### Arduino
 * [Projets créatifs avec Arduino](http://www.pearson.fr/livre/?GCOI=27440100443180&fa=author&person_id=14889) — Bruno Affagard, Jean-Michel Géridan, Jean-Noël Lafargue
 * [Getting started with Arduino](http://shop.oreilly.com/product/0636920021414.do) — Massimo Banzi
