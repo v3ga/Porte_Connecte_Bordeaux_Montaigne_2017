@@ -2,10 +2,10 @@ Porté connecté
 ===============================================
 ## wearable technologies / wearable devices / connected wearables...
 
-## Cours #01 — Lundi 16 Janvier
+## Cours #01 — Lundi 16 janvier
 *reporté, une date est à définir*
 
-## Cours #02 — Lundi 23 Janvier
+## Cours #02 — Lundi 23 janvier
 * **Présentation du projet** par Pierre Bourdareau
  * document [« Porté connecté »](/docs/Porté_connecté_Pierre_Bourdareau.pdf) 
 * **Présentation d'Arduino**
@@ -24,7 +24,19 @@ Porté connecté
   * présentation de quelques composants : diode, résistances, photorésistance, bouton poussoir
   * [breadboard](https://fr.wikipedia.org/wiki/Platine_d'exp%C3%A9rimentation)
  * deuxième programme : [capteur de lumière](/src/sketch_02_capteur_lumiere)
- 
+
+ ## Cours #03 — Lundi 20 février
+ * **Présentation du matériel**
+  * [matériel des années précédentes](https://docs.google.com/spreadsheets/d/16galX3FlOy9erMDW0FUO8496slK4Dnij7xvOoWVXtqY/pubhtml?gid=0&single=true) 
+  * [matériel de la commande 2017](https://docs.google.com/spreadsheets/d/1e2QImUhHTe3Uhqu8zMSANo8Q4t074OZ9XYUprxD7vMI/pubhtml)
+
+* **Expérimentations avec les afficheurs (+ bluetooth) **
+  * soudure des composants si nécessaire.
+  * installation des librairies Adafruit pour accéder aux fonctionnalités des composants (voir les références « Learn » dans la colonne de droite)
+  * couplage avec un capteur en entrée : capteur de lumière -> affichage ou transmission bluetooth.
+  
+  
+  
 ### Bibliographie
 #### Articles
 * [Synthèse sur les wearables : le porté connecté](https://yannickprimel.wordpress.com/2016/04/04/synthese-sur-les-wearables-le-porte-connecte/) — Yannick Primel
